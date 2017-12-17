@@ -1,6 +1,6 @@
 IMPORTANT: La passerelle Connection Box doit être préalablement installée, configurée sur votre réseau local avant la création d'un équipement Palazzetti.
 
-Une fois le plugin installé, pensez à l'activer dans la section de configuration du plugin. Une tâche de récupération de données est prévue toutes les 15 minutes.
+Sobald das Plugin installiert ist, sollten Sie es in der Plugin-Konfiguration aktivieren. Ein Datenwiederherstellungs Task wird alle 15 Minuten geplant.
 
 image::../images/Palazzetti-4.png[width=800]
 
