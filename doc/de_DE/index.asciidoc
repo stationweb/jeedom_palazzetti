@@ -6,7 +6,7 @@ image:Palazzetti_icon.png[]
 
 {nbsp} +
 
-=== Description
+=== Beschreibung
 link:description.asciidoc[]
 
 '''
